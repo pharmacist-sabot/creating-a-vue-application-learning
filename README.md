@@ -22,9 +22,9 @@
 
 *   This project uses Bun for dependency management and script execution, as indicated by the `bun.lock` file.
 
-# This repository uses documentation by Vue.js official websites.
+## This repository uses documentation by Vue.js official websites.
 
-# Creating a Vue Application {#creating-a-vue-application}
+## Creating a Vue Application {#creating-a-vue-application}
 
 ## The application instance {#the-application-instance}
 
